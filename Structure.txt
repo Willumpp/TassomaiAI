@@ -1,0 +1,82 @@
+
+
+Quiz
+
+Analyse
+William's DashboardSettingsLogout
+XP
+Lvl 10
+Daily Goal
+/30
+30
+
+Bonus Goal
+/15
+0
+
+15 more questions to go today!
+Take a quiz!
+*Quiz 1*: *Quiz 1 Name*
+Target: *Target/TotalQuestions*
+*Quiz 2*: *Quiz 2 Name*
+Target: *Target/TotalQuestions*
+x
+AQA [S] *Quiz 1*: *Quiz 1 Name*
+0/5info_outline
+	*Spaces = 2n+2* (n = total questions, Including this line) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Last Answered *Date*
+*QUESTION x*
+
+*ANSWER 1*
+*ANSWER 2*
+*ANSWER 3*
+*ANSWER 4*
+Last Answered *Date*
+*QUESTION x*
+
+*ANSWER 1*
+*ANSWER 2*
+*ANSWER 3*
+*ANSWER 4*
+Last Answered *Date*
+*QUESTION x*
+
+*ANSWER 1*
+*ANSWER 2*
+*ANSWER 3*
+*ANSWER 4*
+Well done!
+
+Continue
+XP
+Lvl 10
+/15
+0
+
+skip 
+Phone: 0203 380 7968
+Email: enquiries@tassomai.com
+Company Number: 841 7700
+VAT Number: 157619678
+Copyright © 2017 TaSsomai Ltd
+About us
+Work with us
+Terms and conditions
+Privacy Policy
+FAQs
+Contact us
